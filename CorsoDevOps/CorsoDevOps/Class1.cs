@@ -8,5 +8,8 @@ namespace CorsoDevOps
 {
     public class Class1
     {
+        public int Id { get; set; }
+        public int Valore { get; set; }
+
     }
 }
